@@ -1,0 +1,15 @@
+F:\Unity\CSharp入门教程\入门12练习题1\bin\Debug\net8.0\入门12练习题1.exe
+F:\Unity\CSharp入门教程\入门12练习题1\bin\Debug\net8.0\入门12练习题1.deps.json
+F:\Unity\CSharp入门教程\入门12练习题1\bin\Debug\net8.0\入门12练习题1.runtimeconfig.json
+F:\Unity\CSharp入门教程\入门12练习题1\bin\Debug\net8.0\入门12练习题1.dll
+F:\Unity\CSharp入门教程\入门12练习题1\bin\Debug\net8.0\入门12练习题1.pdb
+F:\Unity\CSharp入门教程\入门12练习题1\obj\Debug\net8.0\入门12练习题1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Unity\CSharp入门教程\入门12练习题1\obj\Debug\net8.0\入门12练习题1.AssemblyInfoInputs.cache
+F:\Unity\CSharp入门教程\入门12练习题1\obj\Debug\net8.0\入门12练习题1.AssemblyInfo.cs
+F:\Unity\CSharp入门教程\入门12练习题1\obj\Debug\net8.0\入门12练习题1.csproj.CoreCompileInputs.cache
+F:\Unity\CSharp入门教程\入门12练习题1\obj\Debug\net8.0\入门12练习题1.sourcelink.json
+F:\Unity\CSharp入门教程\入门12练习题1\obj\Debug\net8.0\入门12练习题1.dll
+F:\Unity\CSharp入门教程\入门12练习题1\obj\Debug\net8.0\refint\入门12练习题1.dll
+F:\Unity\CSharp入门教程\入门12练习题1\obj\Debug\net8.0\入门12练习题1.pdb
+F:\Unity\CSharp入门教程\入门12练习题1\obj\Debug\net8.0\入门12练习题1.genruntimeconfig.cache
+F:\Unity\CSharp入门教程\入门12练习题1\obj\Debug\net8.0\ref\入门12练习题1.dll
