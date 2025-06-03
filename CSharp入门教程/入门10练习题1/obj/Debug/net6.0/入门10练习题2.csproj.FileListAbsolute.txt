@@ -1,0 +1,15 @@
+F:\C#\CSharp入门教程\入门10练习题1\bin\Debug\net6.0\入门10练习题2.exe
+F:\C#\CSharp入门教程\入门10练习题1\bin\Debug\net6.0\入门10练习题2.deps.json
+F:\C#\CSharp入门教程\入门10练习题1\bin\Debug\net6.0\入门10练习题2.runtimeconfig.json
+F:\C#\CSharp入门教程\入门10练习题1\bin\Debug\net6.0\入门10练习题2.dll
+F:\C#\CSharp入门教程\入门10练习题1\bin\Debug\net6.0\入门10练习题2.pdb
+F:\C#\CSharp入门教程\入门10练习题1\obj\Debug\net6.0\入门10练习题2.csproj.AssemblyReference.cache
+F:\C#\CSharp入门教程\入门10练习题1\obj\Debug\net6.0\入门10练习题2.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\CSharp入门教程\入门10练习题1\obj\Debug\net6.0\入门10练习题2.AssemblyInfoInputs.cache
+F:\C#\CSharp入门教程\入门10练习题1\obj\Debug\net6.0\入门10练习题2.AssemblyInfo.cs
+F:\C#\CSharp入门教程\入门10练习题1\obj\Debug\net6.0\入门10练习题2.csproj.CoreCompileInputs.cache
+F:\C#\CSharp入门教程\入门10练习题1\obj\Debug\net6.0\入门10练习题2.dll
+F:\C#\CSharp入门教程\入门10练习题1\obj\Debug\net6.0\refint\入门10练习题2.dll
+F:\C#\CSharp入门教程\入门10练习题1\obj\Debug\net6.0\入门10练习题2.pdb
+F:\C#\CSharp入门教程\入门10练习题1\obj\Debug\net6.0\入门10练习题2.genruntimeconfig.cache
+F:\C#\CSharp入门教程\入门10练习题1\obj\Debug\net6.0\ref\入门10练习题2.dll

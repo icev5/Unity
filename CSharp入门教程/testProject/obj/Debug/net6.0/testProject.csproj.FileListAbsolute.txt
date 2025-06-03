@@ -1,0 +1,15 @@
+F:\C#\CSharp入门教程\testProject\bin\Debug\net6.0\testProject.exe
+F:\C#\CSharp入门教程\testProject\bin\Debug\net6.0\testProject.deps.json
+F:\C#\CSharp入门教程\testProject\bin\Debug\net6.0\testProject.runtimeconfig.json
+F:\C#\CSharp入门教程\testProject\bin\Debug\net6.0\testProject.dll
+F:\C#\CSharp入门教程\testProject\bin\Debug\net6.0\testProject.pdb
+F:\C#\CSharp入门教程\testProject\obj\Debug\net6.0\testProject.csproj.AssemblyReference.cache
+F:\C#\CSharp入门教程\testProject\obj\Debug\net6.0\testProject.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\CSharp入门教程\testProject\obj\Debug\net6.0\testProject.AssemblyInfoInputs.cache
+F:\C#\CSharp入门教程\testProject\obj\Debug\net6.0\testProject.AssemblyInfo.cs
+F:\C#\CSharp入门教程\testProject\obj\Debug\net6.0\testProject.csproj.CoreCompileInputs.cache
+F:\C#\CSharp入门教程\testProject\obj\Debug\net6.0\testProject.dll
+F:\C#\CSharp入门教程\testProject\obj\Debug\net6.0\refint\testProject.dll
+F:\C#\CSharp入门教程\testProject\obj\Debug\net6.0\testProject.pdb
+F:\C#\CSharp入门教程\testProject\obj\Debug\net6.0\testProject.genruntimeconfig.cache
+F:\C#\CSharp入门教程\testProject\obj\Debug\net6.0\ref\testProject.dll
